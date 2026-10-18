@@ -1,0 +1,6 @@
+{
+  "name": "Etkinlik Onerisi Algoritmalari - Enes Ozturk",
+  "description": "Hava sıcaklığına göre etkinlik önerme ödevi: Farklı if-else ve koşullu karar yapıları, alternatif çözüm yöntemleri ve karşılaştırmalı analizi. Hazırlayan: Enes Öztürk",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
